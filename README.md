@@ -1,2 +1,5 @@
 # project_7
-JS weather app
+JS & API
+
+src:
+https://www.youtube.com/watch?v=n4dtwWgRueI
