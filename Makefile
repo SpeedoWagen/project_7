@@ -68,7 +68,7 @@ LIB_DIR	=	lib/
 LIB		=	-l $(LIB_A) -L $(LIB_DIR)
 
 VERS_DIR=   versions
-VERS_NAME:=	2020-08-05T16:04:16+02:00.tar.gz
+VERS_NAME:=	2020-08-21T11:34:16+02:00.tar.gz
 
 TAR     =   tar
 ZIP_FLAG=   -cvf
